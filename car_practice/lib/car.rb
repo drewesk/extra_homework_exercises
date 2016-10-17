@@ -1,5 +1,5 @@
 # Top-level Comment!
-class Class
+class Car
   def speed
     @current_speed = 0
   end
